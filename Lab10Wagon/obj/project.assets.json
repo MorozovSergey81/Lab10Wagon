@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "TrainWagons/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TrainWagons.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrainWagons.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrainWagons/1.0.0": {
+      "type": "project",
+      "path": "../TrainWagons/TrainWagons.csproj",
+      "msbuildProject": "../TrainWagons/TrainWagons.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "TrainWagons >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/sergejmorozov/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/sergejmorozov/RiderProjects/Lab10Wagon/Lab10Wagon/Lab10Wagon.csproj",
+      "projectName": "Lab10Wagon",
+      "projectPath": "/Users/sergejmorozov/RiderProjects/Lab10Wagon/Lab10Wagon/Lab10Wagon.csproj",
+      "packagesPath": "/Users/sergejmorozov/.nuget/packages/",
+      "outputPath": "/Users/sergejmorozov/RiderProjects/Lab10Wagon/Lab10Wagon/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/sergejmorozov/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/TrainWagons.csproj": {
+              "projectPath": "/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/TrainWagons.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/sergejmorozov/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

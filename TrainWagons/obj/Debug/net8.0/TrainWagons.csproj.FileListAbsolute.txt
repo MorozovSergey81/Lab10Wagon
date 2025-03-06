@@ -1,0 +1,11 @@
+/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/bin/Debug/net8.0/TrainWagons.deps.json
+/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/bin/Debug/net8.0/TrainWagons.dll
+/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/bin/Debug/net8.0/TrainWagons.pdb
+/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/obj/Debug/net8.0/TrainWagons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/obj/Debug/net8.0/TrainWagons.AssemblyInfoInputs.cache
+/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/obj/Debug/net8.0/TrainWagons.AssemblyInfo.cs
+/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/obj/Debug/net8.0/TrainWagons.csproj.CoreCompileInputs.cache
+/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/obj/Debug/net8.0/TrainWagons.dll
+/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/obj/Debug/net8.0/refint/TrainWagons.dll
+/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/obj/Debug/net8.0/TrainWagons.pdb
+/Users/sergejmorozov/RiderProjects/Lab10Wagon/TrainWagons/obj/Debug/net8.0/ref/TrainWagons.dll
