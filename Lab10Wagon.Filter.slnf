@@ -1,0 +1,13 @@
+﻿{
+  "solution": {
+    "path": "Lab10Wagon.sln",
+    "projects": [
+      "CargoWagonTest\\CargoWagonTest.csproj",
+      "Lab10Wagon\\Lab10Wagon.csproj",
+      "PassengerWagonTest\\PassengerWagonTest.csproj",
+      "ReustarantWagonTests\\ReustarantWagonTests.csproj",
+      "TrainWagons\\TrainWagons.csproj",
+      "WagonTest\\WagonTest.csproj"
+    ]
+  }
+}
