@@ -65,7 +65,3 @@ public class FreightWagon : Wagon
         public override string ToString() =>
             $"Грузовой вагон #{Number}, Макс. скорость: {MinSpeed} км/ч, Назначение: {Target}, Тоннаж: {Tonnage}";
     }
-
-    
-
-
